@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Estudante de Jogos Digitais e desenvolvedor FullStack na <strong>Net Soluções</strong>.<br>
+  Certificado em Jogos Digitais e desenvolvedor FullStack.<br>
   Programador de jogos desde 2023, jogos lançados em 2D, 3D e VR.
 </p>
 
