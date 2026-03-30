@@ -6,12 +6,12 @@
 
 <p align="center">
   Estudante de Jogos Digitais e desenvolvedor FullStack na <strong>Net Soluções</strong>.<br>
-  Programador de jogos desde 2023, com ~6 jogos lançados em 2D, 3D e VR.
+  Programador de jogos desde 2023, jogos lançados em 2D, 3D e VR.
 </p>
 
 #
 
-<img align="right" alt="" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="" height="180px" src="https://pbs.twimg.com/profile_images/1708965826345263104/YGhHsi60_400x400.jpg">
 
 <h3 align="left">Connect with me!</h3>
 
