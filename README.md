@@ -50,7 +50,7 @@
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Donklii/Donklii/output/github-contribution-grid-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Donklii/Donklii/output/github-contribution-grid-pacman.svg">
-  <img align="center" alt="github contribution grid pac-man animation" src="https://raw.githubusercontent.com/Donklii/Donklii/output/github-contribution-grid-pacman-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Donklii/Donklii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Donklii/Donklii/output/pacman-contribution-graph.svg">
+  <img align="center" alt="github contribution grid pac-man animation" src="https://raw.githubusercontent.com/Donklii/Donklii/output/pacman-contribution-graph-dark.svg">
 </picture>
